@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="songs.css" ?>
+<Band name="Dead and Company">
+  <Song title="Brown-Eyed Women">
+    <Year>2018</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Sugaree">
+    <Year>2019</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Athena">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Dire Wolf">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Cold Rain and Snow">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Friend of the Devil">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="New Speedway Boogie">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Fire on the Mountain">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+  <Song title="Deal">
+    <Year>2017</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
+</Band>

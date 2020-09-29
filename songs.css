@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+Song {
+  display: block;
+}
+
+Band {
+  text-align: center;
+}
+
+Band:before {
+  font-weight: 600;
+  content: attr(name);
+  font-size: 50px;
+}
+
+Song:before {
+  margin-top: 20px;
+  content: attr(title);
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+Genre {
+  margin-left: 10px;
+}
+
+Genre:before {
+  content: 'Genre: '
+}
+
+Artists:before {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: block;
+  content: 'Artists';
+  font-weight: 600;
+}
+
+Year {
+  margin-right: 10px;
+}
+
+Year:before {
+  content: 'Year Performed: '
+}
+
+
+
+Artist {
+  display: block;
+}
+
+Song {
+  margin-bottom: 20px;
+}
+
+Song title {
+  font-size: 30px;
+  font-weight: 600;
+}
