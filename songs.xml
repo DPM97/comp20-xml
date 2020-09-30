@@ -109,4 +109,16 @@
       <Artist>Oteil Burbridge</Artist>
     </Artists>
   </Song>
+  <Song title="The Weight">
+    <Year>2018</Year>
+    <Genre>Rock</Genre>
+    <Artists>
+      <Artist>John Mayer</Artist>
+      <Artist>Jeff Chimenti</Artist>
+      <Artist>Mickey Hart</Artist>
+      <Artist>Bill Kreutzmann</Artist>
+      <Artist>Bob Weir</Artist>
+      <Artist>Oteil Burbridge</Artist>
+    </Artists>
+  </Song>
 </Band>
