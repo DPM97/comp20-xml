@@ -11,6 +11,7 @@ Band {
 Band:before {
   font-weight: 600;
   content: attr(name);
+  color: purple;
   font-size: 50px;
 }
 
@@ -20,6 +21,7 @@ Song:before {
   font-weight: bold;
   font-size: 30px;
   display: block;
+  color: brown;
   margin-bottom: 10px;
 }
 
@@ -35,7 +37,7 @@ Artists:before {
   margin-top: 20px;
   margin-bottom: 10px;
   display: block;
-  content: 'Artists';
+  content: '-Artists-';
   font-weight: 600;
 }
 
@@ -46,8 +48,6 @@ Year {
 Year:before {
   content: 'Year Performed: '
 }
-
-
 
 Artist {
   display: block;
